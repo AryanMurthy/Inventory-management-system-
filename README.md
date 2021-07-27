@@ -1,6 +1,6 @@
 # Inventory-management-system-
 A simple yet useful inventory management system using Tkinter GUI(Graphical user interface) in python . The management system is used to store product data and create a subsequent and handy list in a text file. If the text file is not present, it will create it's own text file.
-
+One can change the colour, template and size of the window according to their requirement.
 Instructions:
 1. Install tkinter library in python from command prompt.
 2. Installing python if not present in the system.
